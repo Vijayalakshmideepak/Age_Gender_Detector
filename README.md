@@ -17,3 +17,11 @@ Age and Gender Detector using Machine Learning
 7. Upload the Image you want to detect
 8. Click on Detect button
 9. View Results
+
+## Sample Outputs:
+### Sample Output1:
+![Sample Output 1](https://github.com/Vijayalakshmideepak/Age_Gender_Detector/blob/main/Output1.png)
+### Sample Output2:
+![Sample Output 2](https://github.com/Vijayalakshmideepak/Age_Gender_Detector/blob/main/Output2.png)
+### Sample Output3:
+![Sample Output 3](https://github.com/Vijayalakshmideepak/Age_Gender_Detector/blob/main/Output3.png)
